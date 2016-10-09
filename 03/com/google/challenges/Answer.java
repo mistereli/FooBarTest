@@ -43,7 +43,6 @@ public class Answer {
 
         if (args.length == 2)
         {
-
             answer(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
         } else {
             System.out.println("Requires 2 arguments");
