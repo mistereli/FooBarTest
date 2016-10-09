@@ -2,8 +2,6 @@ package com.google.challenges;
 
 public class Answer {
 	public static int answer(int start, int length) {
-	
-	// class Answer {
 		
         int count = start;
         int checksum = -1;
